@@ -1,0 +1,9 @@
+{
+  "/api/graphql/v1/*": {
+    "target": "https://web.np.playstation.com",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
+
